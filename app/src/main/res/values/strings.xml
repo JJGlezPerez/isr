@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ISR</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string-array name="peri">
+        <item>Diario</item>
+        <item>Semanal</item>
+        <item>Decenal</item>
+        <item>Quincenal</item>
+        <item>Mensual</item>
+    </string-array>
+</resources>
